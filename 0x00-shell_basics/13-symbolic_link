@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls/__ls_/0x00-shell_basics_
+ln -s /bin/ls __ls___
